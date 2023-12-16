@@ -7,11 +7,11 @@
 
 !["File -> Preferences -> Profiles -> Import Profile"](assets/install.png)
 
-3.В меню выбора указать скачанный файл профиля
+3. В меню выбора указать скачанный файл профиля
 
 !["Select profile"](assets/select-profile.png)
 
-4.Создать профиль, нажав "Create profile"
+4. Создать профиль, нажав "Create profile"
 
 !["Создание профиля"](assets/create-profile.png)
 
