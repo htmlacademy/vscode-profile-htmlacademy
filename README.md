@@ -4,21 +4,13 @@
 ## Как установить
 1. [Скачать файл профиля](https://raw.githubusercontent.com/htmlacademy/vscode-profile-htmlacademy/main/adaptive.code-profile)
 2. Добавить профиль в VS Code `File -> Preferences -> Profiles -> Import Profile`
-
-!["File -> Preferences -> Profiles -> Import Profile"](assets/install.png)
-
+   !["File -> Preferences -> Profiles -> Import Profile"](assets/install.png)
 3. В меню выбора указать скачанный файл профиля
-
-!["Select profile"](assets/select-profile.png)
-
+   !["Select profile"](assets/select-profile.png)
 4. Создать профиль, нажав "Create profile"
-
-!["Создание профиля"](assets/create-profile.png)
-
+  !["Создание профиля"](assets/create-profile.png)
 5. Принять конфигурационный файл, нажмите "Create"
-
-!["Принять настройки профиля"](assets/apply.png)
-
+  !["Принять настройки профиля"](assets/apply.png)
 6. Немного, меньше минуты, подождите пока загрузятся все расиширения
 7. Пользуйтесь
 
