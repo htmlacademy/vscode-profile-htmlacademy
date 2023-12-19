@@ -1,7 +1,7 @@
 # Changelog
 
 ## 1.0.2
-- Удалил плагин [Figma for VS Code](https://marketplace.visualstudio.com/items?itemName=figma.figma-vscode-extension)
+- Удалили плагин [Figma for VS Code](https://marketplace.visualstudio.com/items?itemName=figma.figma-vscode-extension)
 
 ## 1.0.1
 - Добавили "как предложить изменения в профиль"
