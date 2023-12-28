@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.3
+- Добавили настройки для форматера "editor.defaultFormatter": "EditorConfig.EditorConfig"
+- Удалили оставшуюся настройку от расширения Фигмы
+- Удалили лишнее увеличение лимита строк для терминала
+- Добавили плагин Path autocomplete для возможности авто дополнять `srcset`
+- Отформатировали код конфиг, чтобы проще следить за изменениями
+
 ## 1.0.2
 - Удалили плагин [Figma for VS Code](https://marketplace.visualstudio.com/items?itemName=figma.figma-vscode-extension)
 
