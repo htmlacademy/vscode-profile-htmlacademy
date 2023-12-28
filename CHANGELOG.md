@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.4
+- Переименовали название профиля для лучшего отображения в VS Code
+- Уточнили как добавлять профиль в описании
+- Добавили забытую ссылку на [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete)
+
 ## 1.0.3
 - Добавили настройки для форматера "editor.defaultFormatter": "EditorConfig.EditorConfig"
 - Удалили оставшуюся настройку от расширения Фигмы
